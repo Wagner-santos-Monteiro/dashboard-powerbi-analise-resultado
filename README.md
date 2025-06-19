@@ -23,6 +23,7 @@ Fornecer uma visão clara e direta sobre os principais indicadores de desempenho
 - 🗺️ **Vendas por estado**: Mapa temático interativo
 - 🎯 **Motivos de devolução**: Gráfico de pizza
 - 💳 **Ticket médio**: Indicador em velocímetro
+![image](https://github.com/user-attachments/assets/044412cf-29d5-4c45-881b-9123e6945821)
 
 ---
 
