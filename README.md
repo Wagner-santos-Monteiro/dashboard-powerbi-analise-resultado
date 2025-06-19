@@ -43,7 +43,7 @@ Fornecer uma visão clara e direta sobre os principais indicadores de desempenho
 
 ## 👨‍💼 Sobre o Autor
 
-Desenvolvido por **Wagner Monteiro**, estudante de Ciência de Dados e entusiasta da área de BI. Este projeto faz parte do seu portfólio profissional para demonstrar habilidades em análise de dados e visualização com Power BI.
+Desenvolvido por **Wagner Monteiro**, estudante de Ciência de Dados e entusiasta da área de BI. Este projeto faz parte do meu portfólio profissional para demonstrar habilidades em análise de dados e visualização com Power BI.
 
 📩 **Email:** jorgewagner09@gmail.com  
 🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn–Wagner%20Monteiro-blue?logo=linkedin)
